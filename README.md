@@ -2,6 +2,7 @@
 
 ## About me
 
+- 🏠 Lisbon
 - 🔭 I’m currently working on Python projects
 - 🌱 I’m currently learning Bioinformatics
 - 📫 How to reach me: nunomcmmelo@hotmail.com
