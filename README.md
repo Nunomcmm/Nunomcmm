@@ -17,7 +17,7 @@
   <img align="center" alt="Nuno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nuno-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Nuno-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Nuno-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> 
+  <img align="center" alt="Nuno-SQL" height="30" width="40" src="https://user-images.githubusercontent.com/59843746/133929012-6d3d6452-14a3-4ddf-9c62-76489142d8b7.png">
   <img align="center" alt="Nuno-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Nuno-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   
