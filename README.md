@@ -21,7 +21,7 @@
   <img align="center" alt="Nuno-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Nuno-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Nuno-Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-  <img align="center" alt="Nuno-AzureSynapse" height="30" width="40" src="https://github.com/David-Summers/Azure-Design/blob/master/SVG_Azure_All/Azure%20Synapse%20Analytics.svg">
+  <img align="center" alt="Nuno-AzureSynapse" height="90" width="60" src="https://github.com/David-Summers/Azure-Design/blob/master/SVG_Azure_All/Azure%20Synapse%20Analytics.svg">
 </div>
   
   ##
