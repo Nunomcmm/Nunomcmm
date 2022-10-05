@@ -3,8 +3,8 @@
 ## About me
 
 - 🏠 Lisbon
-- 🔭 I’m currently working on Python projects
-- 🌱 I’m currently learning Bioinformatics
+- 🔭 I’m currently working on Business Intelligence projects
+- 🌱 BSc in Bioinformatics
 - 📫 How to reach me: nunomcmmelo@hotmail.com
 
 
@@ -20,7 +20,8 @@
   <img align="center" alt="Nuno-SQL" height="30" width="40" src="https://user-images.githubusercontent.com/59843746/133929012-6d3d6452-14a3-4ddf-9c62-76489142d8b7.png">
   <img align="center" alt="Nuno-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Nuno-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  
+  <img align="center" alt="Nuno-Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
+  <img align="center" alt="Nuno-AzureSynapse" height="30" width="40" src="https://github.com/David-Summers/Azure-Design/blob/master/SVG_Azure_All/Azure%20Synapse%20Analytics.svg">
 </div>
   
   ##
